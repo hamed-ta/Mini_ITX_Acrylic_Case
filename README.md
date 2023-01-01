@@ -1,4 +1,4 @@
-# MiniITXAcrylicCase
+# Mini ITX Acrylic Case
 
 Mini ITX Acrylic Case plots in CorelDRAW vector graphic files
 
